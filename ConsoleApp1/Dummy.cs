@@ -6,6 +6,6 @@ namespace ConsoleApp1
 {
     internal class Dummy
     {
-        int A;
+        int B;
     }
 }
